@@ -1,7 +1,5 @@
 // Contact form: messages are sent directly to Radh Shahmat's inbox via FormSubmit.
 // FormSubmit will ask you to confirm the email address once before the first live submission.
-const FORM_URL = 'https://formsubmit.co/ajax/radhshahmat91@gmail.com';
-
 const $ = (s, c = document) => c.querySelector(s), $$ = (s, c = document) => [...c.querySelectorAll(s)];
 const RM = matchMedia('(prefers-reduced-motion: reduce)').matches;
 document.documentElement.classList.add('js');
