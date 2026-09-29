@@ -1,0 +1,7 @@
+Drop your resume/CV PDF in this folder and name it exactly:
+
+    Radh_Shahmat_CV.pdf
+
+The "Download CV" buttons in index.html already point to assets/Radh_Shahmat_CV.pdf,
+so once this file exists here, all three buttons (nav, hero, contact) will work.
+You can then delete this text file.
